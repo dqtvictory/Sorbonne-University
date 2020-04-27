@@ -7,9 +7,9 @@ At the moment, the following are finished:
 - __Chapter 3: Data structure.__ Done and translated
 - __Chapter 5: Graph theory.__ Done and translated
 - __Chapter 6: Algebra.__ Done and translated
-- __Chapter 7: Solving functions.__ Almost done. Not translated
+- __Chapter 7: Solving functions.__ Done and translated
 - __Chapter 8: Probability and Statistics.__ Done and translated
-- __Chapter 9: Differential equations.__ *TODO*
+- __Chapter 9: Differential equations.__ Started
 - __Chapter 10: Symbolic calculations.__ *TODO*
 - __Chapter 11: Cryptography.__ *TODO*
 - __*Bonus*__: Sujet blanc, revision for the final exam. *TODO*
