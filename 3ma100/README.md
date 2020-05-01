@@ -10,6 +10,5 @@ At the moment, the following are finished:
 - __Chapter 7: Solving functions.__ Done and translated
 - __Chapter 8: Probability and Statistics.__ Done and translated
 - __Chapter 9: Differential equations.__ Started
-- __Chapter 10: Symbolic calculations.__ *TODO*
-- __Chapter 11: Cryptography.__ *TODO*
+- __Chapter 11: Cryptography.__ Nearly finished
 - __*Bonus*__: Sujet blanc, revision for the final exam. *TODO*
