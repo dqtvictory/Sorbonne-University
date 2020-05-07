@@ -1,0 +1,809 @@
+CODGEO;LIBGEO;SEXE;AGED100;NB
+13201;Marseille 1er Arrondissement;1;000;293.98064823
+13201;Marseille 1er Arrondissement;1;001;311.40411923
+13201;Marseille 1er Arrondissement;1;002;257.55156994
+13201;Marseille 1er Arrondissement;1;003;249.26498077
+13201;Marseille 1er Arrondissement;1;004;188.5914263
+13201;Marseille 1er Arrondissement;1;005;195.87223954
+13201;Marseille 1er Arrondissement;1;006;230.68597012
+13201;Marseille 1er Arrondissement;1;007;169.17044937
+13201;Marseille 1er Arrondissement;1;008;203.77458248
+13201;Marseille 1er Arrondissement;1;009;240.01443391
+13201;Marseille 1er Arrondissement;1;010;271.7255185
+13201;Marseille 1er Arrondissement;1;011;239.04308039
+13201;Marseille 1er Arrondissement;1;012;168.91015213
+13201;Marseille 1er Arrondissement;1;013;178.59207326
+13201;Marseille 1er Arrondissement;1;014;132.58933965
+13201;Marseille 1er Arrondissement;1;015;172.46535341
+13201;Marseille 1er Arrondissement;1;016;210.58376123
+13201;Marseille 1er Arrondissement;1;017;200.65252888
+13201;Marseille 1er Arrondissement;1;018;322.16642113
+13201;Marseille 1er Arrondissement;1;019;409.95060422
+13201;Marseille 1er Arrondissement;1;020;301.59600022
+13201;Marseille 1er Arrondissement;1;021;407.43939253
+13201;Marseille 1er Arrondissement;1;022;381.39371987
+13201;Marseille 1er Arrondissement;1;023;297.11217535
+13201;Marseille 1er Arrondissement;1;024;383.98839337
+13201;Marseille 1er Arrondissement;1;025;364.24977366
+13201;Marseille 1er Arrondissement;1;026;298.49027316
+13201;Marseille 1er Arrondissement;1;027;330.0953305
+13201;Marseille 1er Arrondissement;1;028;304.3361422
+13201;Marseille 1er Arrondissement;1;029;339.8419864
+13201;Marseille 1er Arrondissement;1;030;295.45678143
+13201;Marseille 1er Arrondissement;1;031;338.35129852
+13201;Marseille 1er Arrondissement;1;032;339.96857767
+13201;Marseille 1er Arrondissement;1;033;374.95964155
+13201;Marseille 1er Arrondissement;1;034;292.03827077
+13201;Marseille 1er Arrondissement;1;035;232.09269622
+13201;Marseille 1er Arrondissement;1;036;281.84537706
+13201;Marseille 1er Arrondissement;1;037;267.12887395
+13201;Marseille 1er Arrondissement;1;038;237.62749179
+13201;Marseille 1er Arrondissement;1;039;325.7457944
+13201;Marseille 1er Arrondissement;1;040;363.82114122
+13201;Marseille 1er Arrondissement;1;041;299.28662787
+13201;Marseille 1er Arrondissement;1;042;267.4549407
+13201;Marseille 1er Arrondissement;1;043;305.92557163
+13201;Marseille 1er Arrondissement;1;044;255.17369156
+13201;Marseille 1er Arrondissement;1;045;302.62281681
+13201;Marseille 1er Arrondissement;1;046;268.33494677
+13201;Marseille 1er Arrondissement;1;047;326.19087574
+13201;Marseille 1er Arrondissement;1;048;297.85038703
+13201;Marseille 1er Arrondissement;1;049;295.77770655
+13201;Marseille 1er Arrondissement;1;050;262.22524319
+13201;Marseille 1er Arrondissement;1;051;304.84590261
+13201;Marseille 1er Arrondissement;1;052;245.15698231
+13201;Marseille 1er Arrondissement;1;053;228.55236783
+13201;Marseille 1er Arrondissement;1;054;236.48761819
+13201;Marseille 1er Arrondissement;1;055;208.55359287
+13201;Marseille 1er Arrondissement;1;056;266.55663765
+13201;Marseille 1er Arrondissement;1;057;207.76974412
+13201;Marseille 1er Arrondissement;1;058;238.88921295
+13201;Marseille 1er Arrondissement;1;059;212.17583896
+13201;Marseille 1er Arrondissement;1;060;184.45344601
+13201;Marseille 1er Arrondissement;1;061;225.3953763
+13201;Marseille 1er Arrondissement;1;062;195.75511242
+13201;Marseille 1er Arrondissement;1;063;220.45366767
+13201;Marseille 1er Arrondissement;1;064;232.8530179
+13201;Marseille 1er Arrondissement;1;065;241.18413932
+13201;Marseille 1er Arrondissement;1;066;197.40257704
+13201;Marseille 1er Arrondissement;1;067;287.34425255
+13201;Marseille 1er Arrondissement;1;068;167.92228844
+13201;Marseille 1er Arrondissement;1;069;211.14878204
+13201;Marseille 1er Arrondissement;1;070;195.89680152
+13201;Marseille 1er Arrondissement;1;071;135.82259853
+13201;Marseille 1er Arrondissement;1;072;135.11822492
+13201;Marseille 1er Arrondissement;1;073;161.95536773
+13201;Marseille 1er Arrondissement;1;074;145.24403674
+13201;Marseille 1er Arrondissement;1;075;155.78828627
+13201;Marseille 1er Arrondissement;1;076;82.740582283
+13201;Marseille 1er Arrondissement;1;077;129.80423702
+13201;Marseille 1er Arrondissement;1;078;99.019242314
+13201;Marseille 1er Arrondissement;1;079;88.733127882
+13201;Marseille 1er Arrondissement;1;080;63.395966338
+13201;Marseille 1er Arrondissement;1;081;80.353266109
+13201;Marseille 1er Arrondissement;1;082;76.481560479
+13201;Marseille 1er Arrondissement;1;083;67.921811408
+13201;Marseille 1er Arrondissement;1;084;45.801565668
+13201;Marseille 1er Arrondissement;1;085;40.488491058
+13201;Marseille 1er Arrondissement;1;086;42.083489097
+13201;Marseille 1er Arrondissement;1;087;31.474470957
+13201;Marseille 1er Arrondissement;1;088;18.419807429
+13201;Marseille 1er Arrondissement;1;089;45.419607455
+13201;Marseille 1er Arrondissement;1;090;37.427484592
+13201;Marseille 1er Arrondissement;1;091;29.199211024
+13201;Marseille 1er Arrondissement;1;092;0.3333343395
+13201;Marseille 1er Arrondissement;1;093;9.201392325
+13201;Marseille 1er Arrondissement;1;094;8.4004794684
+13201;Marseille 1er Arrondissement;1;095;0
+13201;Marseille 1er Arrondissement;1;096;2.7361941902
+13201;Marseille 1er Arrondissement;1;097;0
+13201;Marseille 1er Arrondissement;1;098;0
+13201;Marseille 1er Arrondissement;1;099;1.0066026581
+13201;Marseille 1er Arrondissement;1;100;1.0369129114
+13201;Marseille 1er Arrondissement;2;000;313.13701834
+13201;Marseille 1er Arrondissement;2;001;245.95587606
+13201;Marseille 1er Arrondissement;2;002;194.66374215
+13201;Marseille 1er Arrondissement;2;003;206.77884881
+13201;Marseille 1er Arrondissement;2;004;210.64735396
+13201;Marseille 1er Arrondissement;2;005;245.87740981
+13201;Marseille 1er Arrondissement;2;006;228.19500876
+13201;Marseille 1er Arrondissement;2;007;201.8544427
+13201;Marseille 1er Arrondissement;2;008;268.73605333
+13201;Marseille 1er Arrondissement;2;009;272.79734811
+13201;Marseille 1er Arrondissement;2;010;202.56929371
+13201;Marseille 1er Arrondissement;2;011;179.70358802
+13201;Marseille 1er Arrondissement;2;012;189.49791397
+13201;Marseille 1er Arrondissement;2;013;175.0028817
+13201;Marseille 1er Arrondissement;2;014;205.06561936
+13201;Marseille 1er Arrondissement;2;015;179.34671643
+13201;Marseille 1er Arrondissement;2;016;178.73363436
+13201;Marseille 1er Arrondissement;2;017;204.73749551
+13201;Marseille 1er Arrondissement;2;018;391.318601
+13201;Marseille 1er Arrondissement;2;019;368.55081691
+13201;Marseille 1er Arrondissement;2;020;352.5506983
+13201;Marseille 1er Arrondissement;2;021;410.61288692
+13201;Marseille 1er Arrondissement;2;022;283.5037148
+13201;Marseille 1er Arrondissement;2;023;369.64702419
+13201;Marseille 1er Arrondissement;2;024;368.57770395
+13201;Marseille 1er Arrondissement;2;025;336.32503235
+13201;Marseille 1er Arrondissement;2;026;325.09306008
+13201;Marseille 1er Arrondissement;2;027;312.2623722
+13201;Marseille 1er Arrondissement;2;028;303.4255492
+13201;Marseille 1er Arrondissement;2;029;324.4017073
+13201;Marseille 1er Arrondissement;2;030;314.90398648
+13201;Marseille 1er Arrondissement;2;031;306.041331
+13201;Marseille 1er Arrondissement;2;032;291.6190322
+13201;Marseille 1er Arrondissement;2;033;280.50432321
+13201;Marseille 1er Arrondissement;2;034;324.66373938
+13201;Marseille 1er Arrondissement;2;035;280.60268979
+13201;Marseille 1er Arrondissement;2;036;265.53587195
+13201;Marseille 1er Arrondissement;2;037;267.49707514
+13201;Marseille 1er Arrondissement;2;038;282.32285139
+13201;Marseille 1er Arrondissement;2;039;271.46823801
+13201;Marseille 1er Arrondissement;2;040;246.44760867
+13201;Marseille 1er Arrondissement;2;041;291.97635405
+13201;Marseille 1er Arrondissement;2;042;309.27757413
+13201;Marseille 1er Arrondissement;2;043;296.87078207
+13201;Marseille 1er Arrondissement;2;044;248.20262422
+13201;Marseille 1er Arrondissement;2;045;286.76918056
+13201;Marseille 1er Arrondissement;2;046;253.65273396
+13201;Marseille 1er Arrondissement;2;047;246.40987256
+13201;Marseille 1er Arrondissement;2;048;236.43527147
+13201;Marseille 1er Arrondissement;2;049;265.74320711
+13201;Marseille 1er Arrondissement;2;050;274.15275373
+13201;Marseille 1er Arrondissement;2;051;265.1140978
+13201;Marseille 1er Arrondissement;2;052;197.94931709
+13201;Marseille 1er Arrondissement;2;053;225.8548032
+13201;Marseille 1er Arrondissement;2;054;303.17287103
+13201;Marseille 1er Arrondissement;2;055;254.5635715
+13201;Marseille 1er Arrondissement;2;056;194.11908721
+13201;Marseille 1er Arrondissement;2;057;215.61722066
+13201;Marseille 1er Arrondissement;2;058;169.12080134
+13201;Marseille 1er Arrondissement;2;059;213.29651574
+13201;Marseille 1er Arrondissement;2;060;187.03393463
+13201;Marseille 1er Arrondissement;2;061;196.27109744
+13201;Marseille 1er Arrondissement;2;062;179.89877865
+13201;Marseille 1er Arrondissement;2;063;188.07686212
+13201;Marseille 1er Arrondissement;2;064;236.60438
+13201;Marseille 1er Arrondissement;2;065;213.19501835
+13201;Marseille 1er Arrondissement;2;066;175.63550839
+13201;Marseille 1er Arrondissement;2;067;204.96895149
+13201;Marseille 1er Arrondissement;2;068;185.97039671
+13201;Marseille 1er Arrondissement;2;069;183.42438974
+13201;Marseille 1er Arrondissement;2;070;166.69065548
+13201;Marseille 1er Arrondissement;2;071;127.20959589
+13201;Marseille 1er Arrondissement;2;072;116.25579611
+13201;Marseille 1er Arrondissement;2;073;113.62770699
+13201;Marseille 1er Arrondissement;2;074;109.07243909
+13201;Marseille 1er Arrondissement;2;075;80.102657325
+13201;Marseille 1er Arrondissement;2;076;88.908034926
+13201;Marseille 1er Arrondissement;2;077;112.4079499
+13201;Marseille 1er Arrondissement;2;078;108.87506709
+13201;Marseille 1er Arrondissement;2;079;93.041756534
+13201;Marseille 1er Arrondissement;2;080;90.713490362
+13201;Marseille 1er Arrondissement;2;081;49.535019725
+13201;Marseille 1er Arrondissement;2;082;50.787132864
+13201;Marseille 1er Arrondissement;2;083;77.77113316
+13201;Marseille 1er Arrondissement;2;084;81.826372985
+13201;Marseille 1er Arrondissement;2;085;91.674711044
+13201;Marseille 1er Arrondissement;2;086;62.505181615
+13201;Marseille 1er Arrondissement;2;087;66.390025907
+13201;Marseille 1er Arrondissement;2;088;36.999406282
+13201;Marseille 1er Arrondissement;2;089;35.795152146
+13201;Marseille 1er Arrondissement;2;090;28.509752817
+13201;Marseille 1er Arrondissement;2;091;37.517602484
+13201;Marseille 1er Arrondissement;2;092;34.47782626
+13201;Marseille 1er Arrondissement;2;093;26.789308098
+13201;Marseille 1er Arrondissement;2;094;13.598281079
+13201;Marseille 1er Arrondissement;2;095;10.37358443
+13201;Marseille 1er Arrondissement;2;096;3.1720055885
+13201;Marseille 1er Arrondissement;2;097;5.9337794928
+13201;Marseille 1er Arrondissement;2;098;3.7412392443
+13201;Marseille 1er Arrondissement;2;099;5.7814971891
+13201;Marseille 1er Arrondissement;2;100;5.7458191268
+25001;Abbans-Dessous;1;000;1
+25001;Abbans-Dessous;1;001;0
+25001;Abbans-Dessous;1;002;6
+25001;Abbans-Dessous;1;003;4
+25001;Abbans-Dessous;1;004;2
+25001;Abbans-Dessous;1;005;1
+25001;Abbans-Dessous;1;006;4
+25001;Abbans-Dessous;1;007;1
+25001;Abbans-Dessous;1;008;0
+25001;Abbans-Dessous;1;009;4
+25001;Abbans-Dessous;1;010;2
+25001;Abbans-Dessous;1;011;0
+25001;Abbans-Dessous;1;012;0
+25001;Abbans-Dessous;1;013;2
+25001;Abbans-Dessous;1;014;3
+25001;Abbans-Dessous;1;015;2
+25001;Abbans-Dessous;1;016;2
+25001;Abbans-Dessous;1;017;5
+25001;Abbans-Dessous;1;018;5
+25001;Abbans-Dessous;1;019;0
+25001;Abbans-Dessous;1;020;1
+25001;Abbans-Dessous;1;021;1
+25001;Abbans-Dessous;1;022;2
+25001;Abbans-Dessous;1;023;1
+25001;Abbans-Dessous;1;024;0
+25001;Abbans-Dessous;1;025;0
+25001;Abbans-Dessous;1;026;1
+25001;Abbans-Dessous;1;027;0
+25001;Abbans-Dessous;1;028;3
+25001;Abbans-Dessous;1;029;0
+25001;Abbans-Dessous;1;030;4
+25001;Abbans-Dessous;1;031;3
+25001;Abbans-Dessous;1;032;2
+25001;Abbans-Dessous;1;033;1
+25001;Abbans-Dessous;1;034;0
+25001;Abbans-Dessous;1;035;1
+25001;Abbans-Dessous;1;036;1
+25001;Abbans-Dessous;1;037;1
+25001;Abbans-Dessous;1;038;1
+25001;Abbans-Dessous;1;039;1
+25001;Abbans-Dessous;1;040;2
+25001;Abbans-Dessous;1;041;2
+25001;Abbans-Dessous;1;042;2
+25001;Abbans-Dessous;1;043;4
+25001;Abbans-Dessous;1;044;4
+25001;Abbans-Dessous;1;045;6
+25001;Abbans-Dessous;1;046;2
+25001;Abbans-Dessous;1;047;2
+25001;Abbans-Dessous;1;048;2
+25001;Abbans-Dessous;1;049;2
+25001;Abbans-Dessous;1;050;1
+25001;Abbans-Dessous;1;051;1
+25001;Abbans-Dessous;1;052;5
+25001;Abbans-Dessous;1;053;0
+25001;Abbans-Dessous;1;054;4
+25001;Abbans-Dessous;1;055;3
+25001;Abbans-Dessous;1;056;1
+25001;Abbans-Dessous;1;057;0
+25001;Abbans-Dessous;1;058;0
+25001;Abbans-Dessous;1;059;2
+25001;Abbans-Dessous;1;060;2
+25001;Abbans-Dessous;1;061;4
+25001;Abbans-Dessous;1;062;2
+25001;Abbans-Dessous;1;063;1
+25001;Abbans-Dessous;1;064;0
+25001;Abbans-Dessous;1;065;0
+25001;Abbans-Dessous;1;066;0
+25001;Abbans-Dessous;1;067;1
+25001;Abbans-Dessous;1;068;1
+25001;Abbans-Dessous;1;069;2
+25001;Abbans-Dessous;1;070;1
+25001;Abbans-Dessous;1;071;0
+25001;Abbans-Dessous;1;072;1
+25001;Abbans-Dessous;1;073;3
+25001;Abbans-Dessous;1;074;1
+25001;Abbans-Dessous;1;075;1
+25001;Abbans-Dessous;1;076;1
+25001;Abbans-Dessous;1;077;0
+25001;Abbans-Dessous;1;078;1
+25001;Abbans-Dessous;1;079;0
+25001;Abbans-Dessous;1;080;0
+25001;Abbans-Dessous;1;081;0
+25001;Abbans-Dessous;1;082;1
+25001;Abbans-Dessous;1;083;0
+25001;Abbans-Dessous;1;084;0
+25001;Abbans-Dessous;1;085;1
+25001;Abbans-Dessous;1;086;0
+25001;Abbans-Dessous;1;087;0
+25001;Abbans-Dessous;1;088;0
+25001;Abbans-Dessous;1;089;0
+25001;Abbans-Dessous;1;090;0
+25001;Abbans-Dessous;1;091;0
+25001;Abbans-Dessous;1;092;0
+25001;Abbans-Dessous;1;093;0
+25001;Abbans-Dessous;1;094;0
+25001;Abbans-Dessous;1;095;0
+25001;Abbans-Dessous;1;096;0
+25001;Abbans-Dessous;1;097;0
+25001;Abbans-Dessous;1;098;0
+25001;Abbans-Dessous;1;099;0
+25001;Abbans-Dessous;1;100;0
+25001;Abbans-Dessous;2;000;2
+25001;Abbans-Dessous;2;001;0
+25001;Abbans-Dessous;2;002;2
+25001;Abbans-Dessous;2;003;1
+25001;Abbans-Dessous;2;004;3
+25001;Abbans-Dessous;2;005;0
+25001;Abbans-Dessous;2;006;0
+25001;Abbans-Dessous;2;007;2
+25001;Abbans-Dessous;2;008;0
+25001;Abbans-Dessous;2;009;2
+25001;Abbans-Dessous;2;010;4
+25001;Abbans-Dessous;2;011;5
+25001;Abbans-Dessous;2;012;1
+25001;Abbans-Dessous;2;013;1
+25001;Abbans-Dessous;2;014;4
+25001;Abbans-Dessous;2;015;5
+25001;Abbans-Dessous;2;016;0
+25001;Abbans-Dessous;2;017;4
+25001;Abbans-Dessous;2;018;3
+25001;Abbans-Dessous;2;019;0
+25001;Abbans-Dessous;2;020;3
+25001;Abbans-Dessous;2;021;0
+25001;Abbans-Dessous;2;022;1
+25001;Abbans-Dessous;2;023;1
+25001;Abbans-Dessous;2;024;1
+25001;Abbans-Dessous;2;025;0
+25001;Abbans-Dessous;2;026;0
+25001;Abbans-Dessous;2;027;2
+25001;Abbans-Dessous;2;028;1
+25001;Abbans-Dessous;2;029;2
+25001;Abbans-Dessous;2;030;0
+25001;Abbans-Dessous;2;031;1
+25001;Abbans-Dessous;2;032;0
+25001;Abbans-Dessous;2;033;2
+25001;Abbans-Dessous;2;034;1
+25001;Abbans-Dessous;2;035;1
+25001;Abbans-Dessous;2;036;2
+25001;Abbans-Dessous;2;037;2
+25001;Abbans-Dessous;2;038;2
+25001;Abbans-Dessous;2;039;2
+25001;Abbans-Dessous;2;040;1
+25001;Abbans-Dessous;2;041;4
+25001;Abbans-Dessous;2;042;1
+25001;Abbans-Dessous;2;043;3
+25001;Abbans-Dessous;2;044;3
+25001;Abbans-Dessous;2;045;1
+25001;Abbans-Dessous;2;046;3
+25001;Abbans-Dessous;2;047;1
+25001;Abbans-Dessous;2;048;2
+25001;Abbans-Dessous;2;049;3
+25001;Abbans-Dessous;2;050;2
+25001;Abbans-Dessous;2;051;0
+25001;Abbans-Dessous;2;052;1
+25001;Abbans-Dessous;2;053;2
+25001;Abbans-Dessous;2;054;1
+25001;Abbans-Dessous;2;055;1
+25001;Abbans-Dessous;2;056;4
+25001;Abbans-Dessous;2;057;0
+25001;Abbans-Dessous;2;058;3
+25001;Abbans-Dessous;2;059;0
+25001;Abbans-Dessous;2;060;1
+25001;Abbans-Dessous;2;061;3
+25001;Abbans-Dessous;2;062;0
+25001;Abbans-Dessous;2;063;2
+25001;Abbans-Dessous;2;064;0
+25001;Abbans-Dessous;2;065;4
+25001;Abbans-Dessous;2;066;1
+25001;Abbans-Dessous;2;067;3
+25001;Abbans-Dessous;2;068;0
+25001;Abbans-Dessous;2;069;2
+25001;Abbans-Dessous;2;070;2
+25001;Abbans-Dessous;2;071;0
+25001;Abbans-Dessous;2;072;0
+25001;Abbans-Dessous;2;073;1
+25001;Abbans-Dessous;2;074;0
+25001;Abbans-Dessous;2;075;1
+25001;Abbans-Dessous;2;076;0
+25001;Abbans-Dessous;2;077;2
+25001;Abbans-Dessous;2;078;1
+25001;Abbans-Dessous;2;079;1
+25001;Abbans-Dessous;2;080;1
+25001;Abbans-Dessous;2;081;0
+25001;Abbans-Dessous;2;082;0
+25001;Abbans-Dessous;2;083;0
+25001;Abbans-Dessous;2;084;0
+25001;Abbans-Dessous;2;085;0
+25001;Abbans-Dessous;2;086;0
+25001;Abbans-Dessous;2;087;0
+25001;Abbans-Dessous;2;088;0
+25001;Abbans-Dessous;2;089;0
+25001;Abbans-Dessous;2;090;0
+25001;Abbans-Dessous;2;091;1
+25001;Abbans-Dessous;2;092;0
+25001;Abbans-Dessous;2;093;0
+25001;Abbans-Dessous;2;094;1
+25001;Abbans-Dessous;2;095;0
+25001;Abbans-Dessous;2;096;0
+25001;Abbans-Dessous;2;097;0
+25001;Abbans-Dessous;2;098;0
+25001;Abbans-Dessous;2;099;0
+25001;Abbans-Dessous;2;100;0
+75102;Paris 2e Arrondissement;1;000;87.018896382
+75102;Paris 2e Arrondissement;1;001;109.01347578
+75102;Paris 2e Arrondissement;1;002;101.11856701
+75102;Paris 2e Arrondissement;1;003;81.765181116
+75102;Paris 2e Arrondissement;1;004;121.25937997
+75102;Paris 2e Arrondissement;1;005;63.898073599
+75102;Paris 2e Arrondissement;1;006;67.179433752
+75102;Paris 2e Arrondissement;1;007;112.24765276
+75102;Paris 2e Arrondissement;1;008;52.083271706
+75102;Paris 2e Arrondissement;1;009;64.850837749
+75102;Paris 2e Arrondissement;1;010;59.883578193
+75102;Paris 2e Arrondissement;1;011;101.86086038
+75102;Paris 2e Arrondissement;1;012;68.839707085
+75102;Paris 2e Arrondissement;1;013;81.110195849
+75102;Paris 2e Arrondissement;1;014;61.837956411
+75102;Paris 2e Arrondissement;1;015;56.060342608
+75102;Paris 2e Arrondissement;1;016;58.830456132
+75102;Paris 2e Arrondissement;1;017;65.951470326
+75102;Paris 2e Arrondissement;1;018;85.509435073
+75102;Paris 2e Arrondissement;1;019;61.522409512
+75102;Paris 2e Arrondissement;1;020;87.89145147
+75102;Paris 2e Arrondissement;1;021;125.68634666
+75102;Paris 2e Arrondissement;1;022;146.41332902
+75102;Paris 2e Arrondissement;1;023;232.38925907
+75102;Paris 2e Arrondissement;1;024;290.57140976
+75102;Paris 2e Arrondissement;1;025;241.47646991
+75102;Paris 2e Arrondissement;1;026;227.88627477
+75102;Paris 2e Arrondissement;1;027;257.69824825
+75102;Paris 2e Arrondissement;1;028;315.31527319
+75102;Paris 2e Arrondissement;1;029;272.93942518
+75102;Paris 2e Arrondissement;1;030;268.01001018
+75102;Paris 2e Arrondissement;1;031;310.22247466
+75102;Paris 2e Arrondissement;1;032;283.65176529
+75102;Paris 2e Arrondissement;1;033;190.72250801
+75102;Paris 2e Arrondissement;1;034;232.0769109
+75102;Paris 2e Arrondissement;1;035;210.04525067
+75102;Paris 2e Arrondissement;1;036;176.3025703
+75102;Paris 2e Arrondissement;1;037;197.88920414
+75102;Paris 2e Arrondissement;1;038;228.48523114
+75102;Paris 2e Arrondissement;1;039;240.08319704
+75102;Paris 2e Arrondissement;1;040;186.83401188
+75102;Paris 2e Arrondissement;1;041;190.01898551
+75102;Paris 2e Arrondissement;1;042;154.04603838
+75102;Paris 2e Arrondissement;1;043;177.00998209
+75102;Paris 2e Arrondissement;1;044;197.92720498
+75102;Paris 2e Arrondissement;1;045;194.60359314
+75102;Paris 2e Arrondissement;1;046;136.07138998
+75102;Paris 2e Arrondissement;1;047;132.5968011
+75102;Paris 2e Arrondissement;1;048;189.61873058
+75102;Paris 2e Arrondissement;1;049;123.85268164
+75102;Paris 2e Arrondissement;1;050;190.70094066
+75102;Paris 2e Arrondissement;1;051;147.3579133
+75102;Paris 2e Arrondissement;1;052;173.15607366
+75102;Paris 2e Arrondissement;1;053;122.09845329
+75102;Paris 2e Arrondissement;1;054;133.30031582
+75102;Paris 2e Arrondissement;1;055;133.2843262
+75102;Paris 2e Arrondissement;1;056;97.375777526
+75102;Paris 2e Arrondissement;1;057;71.989636061
+75102;Paris 2e Arrondissement;1;058;121.9337534
+75102;Paris 2e Arrondissement;1;059;96.781942166
+75102;Paris 2e Arrondissement;1;060;85.694206878
+75102;Paris 2e Arrondissement;1;061;114.58080553
+75102;Paris 2e Arrondissement;1;062;112.17203155
+75102;Paris 2e Arrondissement;1;063;95.528156523
+75102;Paris 2e Arrondissement;1;064;62.686541957
+75102;Paris 2e Arrondissement;1;065;105.01526893
+75102;Paris 2e Arrondissement;1;066;71.674527544
+75102;Paris 2e Arrondissement;1;067;58.697656902
+75102;Paris 2e Arrondissement;1;068;44.694120257
+75102;Paris 2e Arrondissement;1;069;70.844798167
+75102;Paris 2e Arrondissement;1;070;71.73641665
+75102;Paris 2e Arrondissement;1;071;36.031782811
+75102;Paris 2e Arrondissement;1;072;33.842759863
+75102;Paris 2e Arrondissement;1;073;47.721971103
+75102;Paris 2e Arrondissement;1;074;45.16650883
+75102;Paris 2e Arrondissement;1;075;47.146779934
+75102;Paris 2e Arrondissement;1;076;42.580063145
+75102;Paris 2e Arrondissement;1;077;19.872404388
+75102;Paris 2e Arrondissement;1;078;33.741657007
+75102;Paris 2e Arrondissement;1;079;36.933505539
+75102;Paris 2e Arrondissement;1;080;31.188932251
+75102;Paris 2e Arrondissement;1;081;5.956342587
+75102;Paris 2e Arrondissement;1;082;9.836793481
+75102;Paris 2e Arrondissement;1;083;17.390950969
+75102;Paris 2e Arrondissement;1;084;23.628460341
+75102;Paris 2e Arrondissement;1;085;22.607719318
+75102;Paris 2e Arrondissement;1;086;5.1948872056
+75102;Paris 2e Arrondissement;1;087;10.868514951
+75102;Paris 2e Arrondissement;1;088;6.6878870992
+75102;Paris 2e Arrondissement;1;089;2.8329899662
+75102;Paris 2e Arrondissement;1;090;4.4769830764
+75102;Paris 2e Arrondissement;1;091;7.952731471
+75102;Paris 2e Arrondissement;1;092;0
+75102;Paris 2e Arrondissement;1;093;2.6232322713
+75102;Paris 2e Arrondissement;1;094;2.795762475
+75102;Paris 2e Arrondissement;1;095;0
+75102;Paris 2e Arrondissement;1;096;0
+75102;Paris 2e Arrondissement;1;097;2.8010334724
+75102;Paris 2e Arrondissement;1;098;0
+75102;Paris 2e Arrondissement;1;099;0
+75102;Paris 2e Arrondissement;1;100;0
+75102;Paris 2e Arrondissement;2;000;115.1217947
+75102;Paris 2e Arrondissement;2;001;74.159733957
+75102;Paris 2e Arrondissement;2;002;109.64727995
+75102;Paris 2e Arrondissement;2;003;114.56907977
+75102;Paris 2e Arrondissement;2;004;106.35954217
+75102;Paris 2e Arrondissement;2;005;59.036132871
+75102;Paris 2e Arrondissement;2;006;81.077269583
+75102;Paris 2e Arrondissement;2;007;79.046475054
+75102;Paris 2e Arrondissement;2;008;104.17609745
+75102;Paris 2e Arrondissement;2;009;111.0791406
+75102;Paris 2e Arrondissement;2;010;57.998091138
+75102;Paris 2e Arrondissement;2;011;73.884531387
+75102;Paris 2e Arrondissement;2;012;50.308614703
+75102;Paris 2e Arrondissement;2;013;78.648615297
+75102;Paris 2e Arrondissement;2;014;103.32302089
+75102;Paris 2e Arrondissement;2;015;72.069923202
+75102;Paris 2e Arrondissement;2;016;49.594952806
+75102;Paris 2e Arrondissement;2;017;67.405564547
+75102;Paris 2e Arrondissement;2;018;89.745545565
+75102;Paris 2e Arrondissement;2;019;100.70219493
+75102;Paris 2e Arrondissement;2;020;111.66008746
+75102;Paris 2e Arrondissement;2;021;124.06102778
+75102;Paris 2e Arrondissement;2;022;190.10291699
+75102;Paris 2e Arrondissement;2;023;257.97810007
+75102;Paris 2e Arrondissement;2;024;319.6052183
+75102;Paris 2e Arrondissement;2;025;315.9976154
+75102;Paris 2e Arrondissement;2;026;313.66465827
+75102;Paris 2e Arrondissement;2;027;314.93881302
+75102;Paris 2e Arrondissement;2;028;318.38030482
+75102;Paris 2e Arrondissement;2;029;249.74183207
+75102;Paris 2e Arrondissement;2;030;311.543153
+75102;Paris 2e Arrondissement;2;031;253.83367281
+75102;Paris 2e Arrondissement;2;032;239.77672943
+75102;Paris 2e Arrondissement;2;033;173.68818937
+75102;Paris 2e Arrondissement;2;034;210.57586006
+75102;Paris 2e Arrondissement;2;035;179.07156708
+75102;Paris 2e Arrondissement;2;036;179.49308718
+75102;Paris 2e Arrondissement;2;037;151.42384202
+75102;Paris 2e Arrondissement;2;038;163.05266853
+75102;Paris 2e Arrondissement;2;039;105.67492315
+75102;Paris 2e Arrondissement;2;040;147.36192103
+75102;Paris 2e Arrondissement;2;041;142.9705385
+75102;Paris 2e Arrondissement;2;042;172.66829037
+75102;Paris 2e Arrondissement;2;043;169.0864996
+75102;Paris 2e Arrondissement;2;044;146.23241393
+75102;Paris 2e Arrondissement;2;045;140.29621369
+75102;Paris 2e Arrondissement;2;046;127.31286065
+75102;Paris 2e Arrondissement;2;047;109.52837747
+75102;Paris 2e Arrondissement;2;048;123.22824025
+75102;Paris 2e Arrondissement;2;049;164.22813273
+75102;Paris 2e Arrondissement;2;050;102.27427174
+75102;Paris 2e Arrondissement;2;051;84.399190953
+75102;Paris 2e Arrondissement;2;052;125.0688705
+75102;Paris 2e Arrondissement;2;053;95.111301108
+75102;Paris 2e Arrondissement;2;054;143.68412217
+75102;Paris 2e Arrondissement;2;055;116.31748996
+75102;Paris 2e Arrondissement;2;056;90.397191063
+75102;Paris 2e Arrondissement;2;057;107.57556122
+75102;Paris 2e Arrondissement;2;058;111.94293547
+75102;Paris 2e Arrondissement;2;059;110.38027631
+75102;Paris 2e Arrondissement;2;060;70.072729496
+75102;Paris 2e Arrondissement;2;061;106.41169754
+75102;Paris 2e Arrondissement;2;062;77.985882609
+75102;Paris 2e Arrondissement;2;063;74.177298215
+75102;Paris 2e Arrondissement;2;064;113.91577898
+75102;Paris 2e Arrondissement;2;065;88.301721506
+75102;Paris 2e Arrondissement;2;066;62.131006123
+75102;Paris 2e Arrondissement;2;067;103.3356461
+75102;Paris 2e Arrondissement;2;068;71.60040634
+75102;Paris 2e Arrondissement;2;069;59.329366753
+75102;Paris 2e Arrondissement;2;070;31.573429792
+75102;Paris 2e Arrondissement;2;071;61.802987601
+75102;Paris 2e Arrondissement;2;072;48.046483252
+75102;Paris 2e Arrondissement;2;073;57.345973608
+75102;Paris 2e Arrondissement;2;074;66.133934122
+75102;Paris 2e Arrondissement;2;075;34.278959419
+75102;Paris 2e Arrondissement;2;076;28.971990092
+75102;Paris 2e Arrondissement;2;077;55.463616513
+75102;Paris 2e Arrondissement;2;078;32.881643138
+75102;Paris 2e Arrondissement;2;079;33.009390405
+75102;Paris 2e Arrondissement;2;080;38.557554103
+75102;Paris 2e Arrondissement;2;081;36.02373745
+75102;Paris 2e Arrondissement;2;082;33.222573229
+75102;Paris 2e Arrondissement;2;083;46.348936758
+75102;Paris 2e Arrondissement;2;084;27.486360455
+75102;Paris 2e Arrondissement;2;085;5.6302932518
+75102;Paris 2e Arrondissement;2;086;22.553876347
+75102;Paris 2e Arrondissement;2;087;12.7014667
+75102;Paris 2e Arrondissement;2;088;26.090596664
+75102;Paris 2e Arrondissement;2;089;26.072431803
+75102;Paris 2e Arrondissement;2;090;15.636449241
+75102;Paris 2e Arrondissement;2;091;27.714626186
+75102;Paris 2e Arrondissement;2;092;9.2772845386
+75102;Paris 2e Arrondissement;2;093;11.953450657
+75102;Paris 2e Arrondissement;2;094;0
+75102;Paris 2e Arrondissement;2;095;2.7357324191
+75102;Paris 2e Arrondissement;2;096;0
+75102;Paris 2e Arrondissement;2;097;2.5213100833
+75102;Paris 2e Arrondissement;2;098;1.0592856109
+75102;Paris 2e Arrondissement;2;099;0
+75102;Paris 2e Arrondissement;2;100;0
+75120;Paris 20e Arrondissement;1;000;1147.4505395
+75120;Paris 20e Arrondissement;1;001;1210.6875323
+75120;Paris 20e Arrondissement;1;002;1168.9772056
+75120;Paris 20e Arrondissement;1;003;949.22384642
+75120;Paris 20e Arrondissement;1;004;1067.2076211
+75120;Paris 20e Arrondissement;1;005;1011.2432989
+75120;Paris 20e Arrondissement;1;006;1159.6973766
+75120;Paris 20e Arrondissement;1;007;1009.972256
+75120;Paris 20e Arrondissement;1;008;914.96404323
+75120;Paris 20e Arrondissement;1;009;1070.9621305
+75120;Paris 20e Arrondissement;1;010;936.1044714
+75120;Paris 20e Arrondissement;1;011;993.97930661
+75120;Paris 20e Arrondissement;1;012;965.02573181
+75120;Paris 20e Arrondissement;1;013;931.54310712
+75120;Paris 20e Arrondissement;1;014;1082.9537197
+75120;Paris 20e Arrondissement;1;015;1097.0175648
+75120;Paris 20e Arrondissement;1;016;971.03272964
+75120;Paris 20e Arrondissement;1;017;1054.4934519
+75120;Paris 20e Arrondissement;1;018;993.01698005
+75120;Paris 20e Arrondissement;1;019;1174.0537319
+75120;Paris 20e Arrondissement;1;020;1138.9693227
+75120;Paris 20e Arrondissement;1;021;1177.6137072
+75120;Paris 20e Arrondissement;1;022;1384.4268659
+75120;Paris 20e Arrondissement;1;023;1352.7473496
+75120;Paris 20e Arrondissement;1;024;1467.2731369
+75120;Paris 20e Arrondissement;1;025;1495.3945073
+75120;Paris 20e Arrondissement;1;026;1664.0417496
+75120;Paris 20e Arrondissement;1;027;1614.7845346
+75120;Paris 20e Arrondissement;1;028;1625.3408097
+75120;Paris 20e Arrondissement;1;029;1503.0279318
+75120;Paris 20e Arrondissement;1;030;1549.4495298
+75120;Paris 20e Arrondissement;1;031;1543.4769318
+75120;Paris 20e Arrondissement;1;032;1629.9554018
+75120;Paris 20e Arrondissement;1;033;1618.1391052
+75120;Paris 20e Arrondissement;1;034;1488.3569329
+75120;Paris 20e Arrondissement;1;035;1581.0514818
+75120;Paris 20e Arrondissement;1;036;1553.1813099
+75120;Paris 20e Arrondissement;1;037;1489.4693539
+75120;Paris 20e Arrondissement;1;038;1449.9725639
+75120;Paris 20e Arrondissement;1;039;1480.3834417
+75120;Paris 20e Arrondissement;1;040;1530.7241525
+75120;Paris 20e Arrondissement;1;041;1368.0457735
+75120;Paris 20e Arrondissement;1;042;1534.6529911
+75120;Paris 20e Arrondissement;1;043;1515.4325072
+75120;Paris 20e Arrondissement;1;044;1413.2587747
+75120;Paris 20e Arrondissement;1;045;1368.1365577
+75120;Paris 20e Arrondissement;1;046;1389.2800934
+75120;Paris 20e Arrondissement;1;047;1327.271566
+75120;Paris 20e Arrondissement;1;048;1309.3066339
+75120;Paris 20e Arrondissement;1;049;1242.6881439
+75120;Paris 20e Arrondissement;1;050;1223.8468061
+75120;Paris 20e Arrondissement;1;051;1256.1128241
+75120;Paris 20e Arrondissement;1;052;1145.4177123
+75120;Paris 20e Arrondissement;1;053;1273.7807748
+75120;Paris 20e Arrondissement;1;054;1183.0119598
+75120;Paris 20e Arrondissement;1;055;1108.4962658
+75120;Paris 20e Arrondissement;1;056;1078.0943968
+75120;Paris 20e Arrondissement;1;057;1113.9367729
+75120;Paris 20e Arrondissement;1;058;1060.8775689
+75120;Paris 20e Arrondissement;1;059;981.41198525
+75120;Paris 20e Arrondissement;1;060;999.78665025
+75120;Paris 20e Arrondissement;1;061;964.99374122
+75120;Paris 20e Arrondissement;1;062;1033.7172532
+75120;Paris 20e Arrondissement;1;063;885.92946008
+75120;Paris 20e Arrondissement;1;064;993.67144637
+75120;Paris 20e Arrondissement;1;065;1032.1245586
+75120;Paris 20e Arrondissement;1;066;802.35561877
+75120;Paris 20e Arrondissement;1;067;892.36318459
+75120;Paris 20e Arrondissement;1;068;871.84111533
+75120;Paris 20e Arrondissement;1;069;779.62025475
+75120;Paris 20e Arrondissement;1;070;634.11575512
+75120;Paris 20e Arrondissement;1;071;604.19511242
+75120;Paris 20e Arrondissement;1;072;552.87297867
+75120;Paris 20e Arrondissement;1;073;494.36637944
+75120;Paris 20e Arrondissement;1;074;469.72585014
+75120;Paris 20e Arrondissement;1;075;383.41334901
+75120;Paris 20e Arrondissement;1;076;410.17245312
+75120;Paris 20e Arrondissement;1;077;463.89916043
+75120;Paris 20e Arrondissement;1;078;385.84281715
+75120;Paris 20e Arrondissement;1;079;333.53698208
+75120;Paris 20e Arrondissement;1;080;358.13580636
+75120;Paris 20e Arrondissement;1;081;279.77458971
+75120;Paris 20e Arrondissement;1;082;263.68434394
+75120;Paris 20e Arrondissement;1;083;220.57772116
+75120;Paris 20e Arrondissement;1;084;192.99032407
+75120;Paris 20e Arrondissement;1;085;252.18833933
+75120;Paris 20e Arrondissement;1;086;184.98791195
+75120;Paris 20e Arrondissement;1;087;140.48785386
+75120;Paris 20e Arrondissement;1;088;113.91512182
+75120;Paris 20e Arrondissement;1;089;109.38305223
+75120;Paris 20e Arrondissement;1;090;77.725665593
+75120;Paris 20e Arrondissement;1;091;59.041089982
+75120;Paris 20e Arrondissement;1;092;54.512156538
+75120;Paris 20e Arrondissement;1;093;40.004820592
+75120;Paris 20e Arrondissement;1;094;266.85945196
+75120;Paris 20e Arrondissement;1;095;23.248396342
+75120;Paris 20e Arrondissement;1;096;1.9179578162
+75120;Paris 20e Arrondissement;1;097;5.1208510786
+75120;Paris 20e Arrondissement;1;098;3.1985663146
+75120;Paris 20e Arrondissement;1;099;1.000001349
+75120;Paris 20e Arrondissement;1;100;24.220281215
+75120;Paris 20e Arrondissement;2;000;1061.9229967
+75120;Paris 20e Arrondissement;2;001;1101.9704852
+75120;Paris 20e Arrondissement;2;002;1035.1995596
+75120;Paris 20e Arrondissement;2;003;1073.8089681
+75120;Paris 20e Arrondissement;2;004;1005.7327645
+75120;Paris 20e Arrondissement;2;005;914.51415672
+75120;Paris 20e Arrondissement;2;006;1010.7413681
+75120;Paris 20e Arrondissement;2;007;1002.2101499
+75120;Paris 20e Arrondissement;2;008;929.62786849
+75120;Paris 20e Arrondissement;2;009;1006.6762299
+75120;Paris 20e Arrondissement;2;010;1000.2836602
+75120;Paris 20e Arrondissement;2;011;1017.4790072
+75120;Paris 20e Arrondissement;2;012;945.63669973
+75120;Paris 20e Arrondissement;2;013;883.08807045
+75120;Paris 20e Arrondissement;2;014;1062.8189028
+75120;Paris 20e Arrondissement;2;015;877.61265897
+75120;Paris 20e Arrondissement;2;016;947.44899581
+75120;Paris 20e Arrondissement;2;017;949.11716225
+75120;Paris 20e Arrondissement;2;018;1003.7067246
+75120;Paris 20e Arrondissement;2;019;1090.0229059
+75120;Paris 20e Arrondissement;2;020;1190.5698194
+75120;Paris 20e Arrondissement;2;021;1165.3571017
+75120;Paris 20e Arrondissement;2;022;1472.8665794
+75120;Paris 20e Arrondissement;2;023;1591.9003585
+75120;Paris 20e Arrondissement;2;024;1775.2492748
+75120;Paris 20e Arrondissement;2;025;1708.1021579
+75120;Paris 20e Arrondissement;2;026;1808.9603223
+75120;Paris 20e Arrondissement;2;027;1834.5136629
+75120;Paris 20e Arrondissement;2;028;1646.8573607
+75120;Paris 20e Arrondissement;2;029;1967.687515
+75120;Paris 20e Arrondissement;2;030;1785.7367082
+75120;Paris 20e Arrondissement;2;031;1827.0183723
+75120;Paris 20e Arrondissement;2;032;1736.5705427
+75120;Paris 20e Arrondissement;2;033;1764.6073116
+75120;Paris 20e Arrondissement;2;034;1590.2150198
+75120;Paris 20e Arrondissement;2;035;1626.2833401
+75120;Paris 20e Arrondissement;2;036;1517.7192788
+75120;Paris 20e Arrondissement;2;037;1567.3172983
+75120;Paris 20e Arrondissement;2;038;1364.8107022
+75120;Paris 20e Arrondissement;2;039;1442.2401676
+75120;Paris 20e Arrondissement;2;040;1527.8760197
+75120;Paris 20e Arrondissement;2;041;1443.1148574
+75120;Paris 20e Arrondissement;2;042;1453.94851
+75120;Paris 20e Arrondissement;2;043;1398.3303147
+75120;Paris 20e Arrondissement;2;044;1416.1746017
+75120;Paris 20e Arrondissement;2;045;1378.0281085
+75120;Paris 20e Arrondissement;2;046;1407.1072104
+75120;Paris 20e Arrondissement;2;047;1392.5061695
+75120;Paris 20e Arrondissement;2;048;1444.0804512
+75120;Paris 20e Arrondissement;2;049;1378.9246231
+75120;Paris 20e Arrondissement;2;050;1344.4890201
+75120;Paris 20e Arrondissement;2;051;1365.1624544
+75120;Paris 20e Arrondissement;2;052;1515.1716548
+75120;Paris 20e Arrondissement;2;053;1426.0199387
+75120;Paris 20e Arrondissement;2;054;1416.7335891
+75120;Paris 20e Arrondissement;2;055;1487.5237677
+75120;Paris 20e Arrondissement;2;056;1392.2893917
+75120;Paris 20e Arrondissement;2;057;1292.3886369
+75120;Paris 20e Arrondissement;2;058;1209.1429807
+75120;Paris 20e Arrondissement;2;059;1240.2472657
+75120;Paris 20e Arrondissement;2;060;1307.8798005
+75120;Paris 20e Arrondissement;2;061;1177.3096173
+75120;Paris 20e Arrondissement;2;062;1111.1900929
+75120;Paris 20e Arrondissement;2;063;1177.5566748
+75120;Paris 20e Arrondissement;2;064;1129.8560461
+75120;Paris 20e Arrondissement;2;065;1267.2195925
+75120;Paris 20e Arrondissement;2;066;1109.6220281
+75120;Paris 20e Arrondissement;2;067;988.74421677
+75120;Paris 20e Arrondissement;2;068;932.60579183
+75120;Paris 20e Arrondissement;2;069;884.54879573
+75120;Paris 20e Arrondissement;2;070;854.35187551
+75120;Paris 20e Arrondissement;2;071;618.14240159
+75120;Paris 20e Arrondissement;2;072;682.78709419
+75120;Paris 20e Arrondissement;2;073;580.81767862
+75120;Paris 20e Arrondissement;2;074;585.2002995
+75120;Paris 20e Arrondissement;2;075;574.61576298
+75120;Paris 20e Arrondissement;2;076;543.9107438
+75120;Paris 20e Arrondissement;2;077;549.91412515
+75120;Paris 20e Arrondissement;2;078;488.33333657
+75120;Paris 20e Arrondissement;2;079;519.53315562
+75120;Paris 20e Arrondissement;2;080;496.23337667
+75120;Paris 20e Arrondissement;2;081;566.66759136
+75120;Paris 20e Arrondissement;2;082;472.75141823
+75120;Paris 20e Arrondissement;2;083;513.36825894
+75120;Paris 20e Arrondissement;2;084;442.61838368
+75120;Paris 20e Arrondissement;2;085;409.45872232
+75120;Paris 20e Arrondissement;2;086;281.87200165
+75120;Paris 20e Arrondissement;2;087;383.82426726
+75120;Paris 20e Arrondissement;2;088;342.6423128
+75120;Paris 20e Arrondissement;2;089;285.77607651
+75120;Paris 20e Arrondissement;2;090;203.17296595
+75120;Paris 20e Arrondissement;2;091;202.95435982
+75120;Paris 20e Arrondissement;2;092;220.31384144
+75120;Paris 20e Arrondissement;2;093;135.28669294
+75120;Paris 20e Arrondissement;2;094;221.27539862
+75120;Paris 20e Arrondissement;2;095;85.25655229
+75120;Paris 20e Arrondissement;2;096;46.087931694
+75120;Paris 20e Arrondissement;2;097;33.499087131
+75120;Paris 20e Arrondissement;2;098;20.743092611
+75120;Paris 20e Arrondissement;2;099;32.006796563
+75120;Paris 20e Arrondissement;2;100;40.624648508
